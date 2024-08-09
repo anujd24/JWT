@@ -1,2 +1,2 @@
 # JWT
-Verifying and Decoding tokens returned to the user
+Verifying and Decoding Tokens returned to the user
